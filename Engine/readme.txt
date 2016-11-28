@@ -1,0 +1,35 @@
+﻿a、主要的几大模块: 引擎配置、流程定义、实例流转、日志处理、计划任务 
+    Config：引擎配置，配置引擎实例的数据库连接、日志配置、参数设定等。 
+    Define：流程定义，利用xml来描述流程,主要定义任务节点，路由、动作事件、变量、人员分配等 
+    Flow：实例流转，根据定义运行流程实例 
+    Log：日志处理，输出日志 
+
+b、实例流转中的关键性类设计包括： 
+    1、任务（Task）
+		普通任务（NoneTask）
+		人工任务（UserTask）
+		服务任务（ServiceTask）
+		脚本任务（ScriptTask）
+		手工任务（ManualTask）
+		发送任务（SendTask）
+		接收任务（ReceiveTask）
+		业务规则任务（BusinessRuleTask）
+    2、网关（Gateway） 
+		唯一网关（ExclusiveGateway）
+		并行网关（ParallelGateway）
+		包含网关（InclusiveGateway）
+    3、事件（Event）
+		空启动事件（StartEvent）
+		空结束事件（EndEvent）
+		终止结束事件（TerminateEvent）
+		定时启动事件（TimerEvent）
+		中间事件（）
+		内部捕获事件：定时器（IntermediateCatchEvent）
+    4、令牌（Token） 
+	5、顺序流（Sequence）
+    6、人员分配（Assign）
+	7、委托机制（Depute）
+    8、消息服务（Notify）
+		邮件消息（MailNotify）
+		系统短信（MsgNotify）
+	9、活动（Activity）

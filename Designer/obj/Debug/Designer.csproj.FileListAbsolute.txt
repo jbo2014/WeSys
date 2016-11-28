@@ -1,0 +1,5 @@
+F:\GitHub\WeFlow\Designer\bin\Debug\Designer.dll
+F:\GitHub\WeFlow\Designer\bin\Debug\Designer.pdb
+F:\GitHub\WeFlow\Designer\obj\Debug\Designer.csprojResolveAssemblyReference.cache
+F:\GitHub\WeFlow\Designer\obj\Debug\Designer.dll
+F:\GitHub\WeFlow\Designer\obj\Debug\Designer.pdb

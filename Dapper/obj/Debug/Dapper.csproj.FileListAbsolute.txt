@@ -1,0 +1,6 @@
+F:\GitHub\WeFlow\Dapper\bin\Debug\Dapper.dll
+F:\GitHub\WeFlow\Dapper\bin\Debug\Dapper.pdb
+F:\GitHub\WeFlow\Dapper\bin\Debug\Dapper.xml
+F:\GitHub\WeFlow\Dapper\obj\Debug\Dapper.csprojResolveAssemblyReference.cache
+F:\GitHub\WeFlow\Dapper\obj\Debug\Dapper.dll
+F:\GitHub\WeFlow\Dapper\obj\Debug\Dapper.pdb
