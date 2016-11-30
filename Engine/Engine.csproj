@@ -47,27 +47,20 @@
     <Compile Include="Define\AttachData\EnumExtension.cs" />
     <Compile Include="Define\Enums\OtherObject.cs" />
     <Compile Include="Define\Enums\FlowObject.cs" />
-    <Compile Include="Entity\Activity.cs" />
-    <Compile Include="Entity\Assign.cs" />
-    <Compile Include="Entity\Depute.cs" />
-    <Compile Include="Entity\Event.cs" />
-    <Compile Include="Entity\Gateway.cs" />
-    <Compile Include="Entity\Notify.cs" />
-    <Compile Include="Entity\Token.cs" />
+    <Compile Include="Transfer\FlowObject\Activity.cs" />
+    <Compile Include="Transfer\FlowObject\Assign.cs" />
+    <Compile Include="Transfer\FlowObject\Depute.cs" />
+    <Compile Include="Transfer\FlowObject\Event.cs" />
+    <Compile Include="Transfer\FlowObject\Gateway.cs" />
+    <Compile Include="Transfer\FlowObject\Notify.cs" />
+    <Compile Include="Transfer\FlowObject\Token.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Entity\Sequence.cs" />
-    <Compile Include="Entity\Task.cs" />
+    <Compile Include="Transfer\FlowObject\Sequence.cs" />
+    <Compile Include="Transfer\FlowObject\Task.cs" />
+    <Compile Include="Transfer\LodeFlow.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Config\" />
-    <Folder Include="Entity\Assign\" />
-    <Folder Include="Entity\Depute\" />
-    <Folder Include="Entity\Event\" />
-    <Folder Include="Entity\GateWay\" />
-    <Folder Include="Entity\Notify\" />
-    <Folder Include="Entity\Process\" />
-    <Folder Include="Entity\Sequence\" />
-    <Folder Include="Entity\Task\" />
     <Folder Include="Log\" />
   </ItemGroup>
   <ItemGroup>
