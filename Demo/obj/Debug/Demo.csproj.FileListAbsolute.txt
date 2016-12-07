@@ -1,0 +1,6 @@
+G:\GitHubs\WeSys\Demo\bin\Debug\Demo.exe.config
+G:\GitHubs\WeSys\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+G:\GitHubs\WeSys\Demo\bin\Debug\Demo.exe
+G:\GitHubs\WeSys\Demo\bin\Debug\Demo.pdb
+G:\GitHubs\WeSys\Demo\obj\Debug\Demo.exe
+G:\GitHubs\WeSys\Demo\obj\Debug\Demo.pdb

@@ -1,5 +1,0 @@
-F:\GitHub\WeFlow\FormBuilder\bin\Debug\FormBuilder.dll
-F:\GitHub\WeFlow\FormBuilder\bin\Debug\FormBuilder.pdb
-F:\GitHub\WeFlow\FormBuilder\obj\Debug\FormBuilder.csprojResolveAssemblyReference.cache
-F:\GitHub\WeFlow\FormBuilder\obj\Debug\FormBuilder.dll
-F:\GitHub\WeFlow\FormBuilder\obj\Debug\FormBuilder.pdb
